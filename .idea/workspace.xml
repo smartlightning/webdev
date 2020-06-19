@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f571fd94-6308-4b44-8ba5-fdeed0b5a8d4" name="Default Changelist" comment="" />
+    <list default="true" id="f571fd94-6308-4b44-8ba5-fdeed0b5a8d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/FinishedLogoBlack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chillies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/dslr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mountain.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,29 +31,30 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1dMKNEksw7N9dfcSFMOPWrjxjTY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chmcquee\WebstormProjects\webdev_site\assets" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,20 +67,40 @@
       <option name="presentableId" value="Default" />
       <updated>1592229479767</updated>
       <workItem from="1592229481744" duration="746000" />
+      <workItem from="1592411248685" duration="18000" />
+      <workItem from="1592411305049" duration="1806000" />
+      <workItem from="1592572765050" duration="6800000" />
     </task>
+    <task id="LOCAL-00001" summary="weird file needed">
+      <created>1592230868671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592230868671</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="weird file needed" />
+    <option name="LAST_COMMIT_MESSAGE" value="weird file needed" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="583" y="27" key="CommitChangelistDialog2" timestamp="1592230866701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="27" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592230866701" />
     <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1592230311660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="248" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592230311660" />
-    <state x="767" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592230296176">
+    <state x="767" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592230932501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="767" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592230296176" />
+    <state x="767" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592230932501" />
   </component>
 </project>
